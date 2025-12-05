@@ -1,1 +1,1 @@
-# Codigo-de-autentica-o
+# Codigo de autenticação e autorização
